@@ -1,4 +1,5 @@
 Password Generator
+\n
 Overview
 This project is a simple Password Generator that allows users to create random passwords. Users can define the length of the password using a scroll range and choose whether to include numbers and special characters via checkboxes.
 
